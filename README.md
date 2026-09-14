@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bryan Belandria
 
-<!--
-**BryanBel/BryanBel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Caracas. I build web products with **React**, **Astro**,
+**Node.js** and **Express**.
 
-Here are some ideas to get you started:
+Alongside development, I've spent four years monitoring production server
+infrastructure at CANTV, Venezuela's largest telecom operator — which is where I
+learned what breaks in production and why uptime is a design decision, not an
+afterthought.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Studying:** Computer Engineering at Universidad Alejandro de Humboldt.
+
+- Astro · React · TypeScript · Node.js · Express · SQL · Git
+- Spanish (native) · English (C1)
+
+[LinkedIn](https://linkedin.com/in/bryanbel) · bryanbelandriav@gmail.com
